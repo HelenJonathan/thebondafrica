@@ -46,6 +46,7 @@ div .profile-section{
   background-color: rgb(107, 103, 103); 
   text-align:center; 
   gap: 3rem;
+  margin-top: 3rem;
   padding: 4rem 2rem;
   color: white;
 }
